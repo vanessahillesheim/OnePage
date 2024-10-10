@@ -2,7 +2,18 @@
 
 Bem-vindo ao repositório da VHManager, uma agência dedicada ao desenvolvimento de soluções tecnológicas e serviços digitais.
 
+## Índice
+
+1. [Estrutura do Projeto](#estrutura-do-projeto)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+3. [Funcionalidades](#funcionalidades)
+4. [Como Executar o Projeto](#como-executar-o-projeto)
+5. [Contribuições](#contribuições)
+6. [Licença](#licença)
+7. [Contato](#contato)
+
 ## Estrutura do Projeto
+
 
 Este projeto é uma página única (onepage) responsiva, contendo as seguintes pastas e arquivos:
 
